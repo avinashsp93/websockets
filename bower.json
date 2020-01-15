@@ -1,0 +1,20 @@
+{
+  "name": "websockets",
+  "description": "Web Socket Programming",
+  "main": "index.js",
+  "authors": [
+    "Avinash Sorab"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
